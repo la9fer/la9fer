@@ -29,7 +29,7 @@ I'm interested in solving computational problems through mathematical modelling,
 
 ### 🚀 Selected Projects
 
-**01. Smart Floorplan - GCN-Based Congestion Predictor**
+**01. Smart Floorplan - GCN based Congestion Predictor**
 
 Graph Neural Networks for predicting routing congestion in chip floorplans using macro placement and netlist connectivity.
 
