@@ -29,7 +29,7 @@ I'm interested in solving computational problems through mathematical modelling,
 
 ### 🚀 Selected Projects
 
-**01. Smart Floorplan — GCN-Based Congestion Predictor**
+**01. Smart Floorplan - GCN-Based Congestion Predictor**
 
 Graph Neural Networks for predicting routing congestion in chip floorplans using macro placement and netlist connectivity.
 
@@ -40,7 +40,7 @@ Graph Neural Networks for predicting routing congestion in chip floorplans using
 
 [Explore Repository →](https://github.com/la9fer/smart-floorplan-GCN)
 
-**02. ECG Anomaly Detection — Deep Learning & Classical ML**
+**02. ECG Anomaly Detection - Deep Learning & Classical ML**
 
 Developed an ECG arrhythmia detection pipeline using 1D CNNs and classical machine learning baselines.
 
@@ -51,7 +51,7 @@ Developed an ECG arrhythmia detection pipeline using 1D CNNs and classical machi
 
 [Explore Repository →](https://github.com/la9fer/ecg-anomaly-detection)
 
-**03. Placenta MRI Segmentation — Deep Learning**
+**03. Placenta MRI Segmentation - Deep Learning**
 
 Implemented a U-Net-based medical image segmentation pipeline using PyTorch and MONAI.
 
@@ -71,7 +71,7 @@ Implemented a P1 finite element solver for the 2D Poisson equation.
 
 [Explore Repository →](https://github.com/la9fer/fem-elliptic-pde-solver)
 
-**05. Asian Option Pricing — Numerical Research**
+**05. Asian Option Pricing - Numerical Research**
 
 Investigated numerical methods for solving the Asian option pricing PDE.
 
